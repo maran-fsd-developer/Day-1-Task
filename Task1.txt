@@ -1,0 +1,30 @@
+1. Difference between HTTP1.1 vs HTTP2
+
+* Hypertext Transfer Protocol (HTTP).
+
+HTTP1.1;
+
+* HTTP is based on the Client/Server model.
+* Client/Server model can be explained as two computers, Client (receiver of service) and Server (provider of service) that are communicating via requests and responses.
+* HTTP1.1 is not safe web searching.
+* HTTP is a TCP/IP based communication protocol.
+* Used to delivery data(HTML files,image file,query result,etc.)
+* The latest HTTP version has evolved significantly in terms of capabilities and attributes such as transforming from a text protocol to a binary protocol.
+* HTTP1.x used to process text commands to complete request-response cycles.
+* HTTP 1.1 relies on the underlying TCP protocol for reliable data transfer, which can lead to performance issues, especially for high-latency connections
+* HTTP 1.1 introduced the ability to transfer large amounts of data in chunks, which can improve the efficiency of data transfer and reduce latency.
+* HTTP 1.1 introduced more detailed error codes and improved error handling, which can help developers troubleshoot and resolve issues more quickly.
+
+HTTP2;
+
+* HTTP/2 can send multiple requests for data in parallel over a single TCP connection.
+* HTTP/2 compress a large number of redundant header frames.
+* This is the most advanced feature of the HTTP/2 protocol because it allows you to download web files asynchronously from one server.
+* HTTP2 secured for web searching.
+* It is the protocol where encrypted HTTP data is transferred over a secure connection.
+* Encrypted using Transfer Layer Security or, formerly,secure sockets Layer.
+* It is used for communication over a computer network. 
+* Currently, it is widely supported by web clients so its implementation is painless.
+* Like serving assets to the client.
+* Most of the modern browser fully support HTTP/2 protocol with an exception (red) of Opera mini (all versions) and UC Browser for Android.
+

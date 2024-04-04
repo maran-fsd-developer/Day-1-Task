@@ -1,0 +1,12 @@
+2.Write a blog about objects and its internal representation in Javascript
+
+* The Object type represents one of JavaScript's data types.
+* Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript.
+* Objects are more complex and each object may contain any combination of these primitive data-types as well as reference data-types.
+* A JavaScript object has properties associated with it. A property of an object can be explained as a variable that is attached to the object.
+* The properties of an object define the characteristics of the object.
+* Internally, JavaScript engines use various data structures to represent objects efficiently.
+* This allows for fast access and manipulation of properties.
+* One common approach is using a hash table or a similar structure to store the object’s properties and their corresponding values.
+* Objects are used to represent real-world entities, data structures, and more complex data types.
+* Variables that are assigned a reference value are given a reference or a pointer to that value.
